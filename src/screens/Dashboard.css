@@ -1,0 +1,18 @@
+.dashboard__404 {
+  display: flex;
+  height: 100vh;
+  width: 100vw;
+  align-items: center;
+  justify-content: center;
+  font-size: 30px;
+  background-color:rgb(162, 235, 190);
+}
+
+.dashboard__classContainer {
+  display: flex;
+  padding: 50px;
+  flex-wrap: wrap;
+  width: 100vw;
+  background-color: rgb(162, 235, 190);
+  height: 720px;
+}
